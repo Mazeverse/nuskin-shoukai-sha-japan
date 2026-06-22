@@ -8,3 +8,11 @@ Japanese landing page for Nu Skin 紹介者 search users with referral ID KR0131
 - ニュースキン 紹介者 いない
 - ニュースキン 登録 紹介者
 - Nu Skin 紹介者
+
+
+## Live URL
+https://nuskin-shoukai-sha-japan.pages.dev/
+
+## Search verification
+- Google site verification included
+- Naver site verification included
